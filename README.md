@@ -27,7 +27,7 @@ yarn add svelte-plesk-bridge
 After that is done, append to your `build` script in the `package.json`:
 
 ```
-    "build": "svelte-kit build && cp ../node-modules/dritter/svelte-plesk-bridge/entry.cjs build/",
+    "build": "svelte-kit build && cp node_modules/sveltekit-plesk-bridge/entry.cjs build/",
 ```
 
 ## Credits
