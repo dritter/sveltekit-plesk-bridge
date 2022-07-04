@@ -1,6 +1,6 @@
 {
   "name": "sveltekit-plesk-bridge",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Bridges ES Modules to CommonJS, to avoid the ERR_REQUIRE_ESM error.",
   "main": "entry.cjs",
   "scripts": {
