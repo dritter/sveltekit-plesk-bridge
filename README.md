@@ -10,6 +10,8 @@ Instead change the require of index.js in helper-scripts/node-loader.js to a dyn
 
 ## Installation
 
+The package must be added as a production dependency if you build on your production server!
+
 NPM
 
 ```bash
@@ -19,7 +21,7 @@ npm install svelte-plesk-bridge
 Yarn
 
 ```bash
-yarn add -D svelte-plesk-bridge
+yarn add svelte-plesk-bridge
 ```
 
 After that is done, append to your `build` script in the `package.json`:
