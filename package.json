@@ -1,0 +1,24 @@
+{
+  "name": "sveltekit-plesk-bridge",
+  "version": "1.0.0",
+  "description": "Bridges ES Modules to CommonJS, to avoid the ERR_REQUIRE_ESM error.",
+  "main": "entry.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dritter/sveltekit-plesk-bridge.git"
+  },
+  "keywords": [
+    "Sveltekit",
+    "Plesk",
+    "ERR_REQUIRE_ESM"
+  ],
+  "author": "Dominik Ritter <dritter03@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dritter/sveltekit-plesk-bridge/issues"
+  },
+  "homepage": "https://github.com/dritter/sveltekit-plesk-bridge#readme"
+}
